@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[小记]]></title>
+    <url>%2F2019%2F03%2F15%2F%E5%B0%8F%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[– 让一个人信任很难，往往可能要付很多，但是然让一个人产生怀疑却很简单，可能就一瞬间的事。]]></content>
+      <tags>
+        <tag>生活小记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[A Test For Multi-terminal]]></title>
+    <url>%2F2019%2F03%2F02%2FA-Test-For-Multi-terminal%2F</url>
+    <content type="text"><![CDATA[“多终端测试”]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World!]]></title>
+    <url>%2F2019%2F02%2F10%2FHello-World%2F</url>
+    <content type="text"><![CDATA[This is a test for HexoBlog Try to make some placeholder. 1System.out.println(&quot;hello world!&quot;); 12345function fun()&#123; echo &quot;这是一段代码&quot;;&#125;fun(); 12345678st=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp;]]></content>
+      <categories>
+        <category>hello world</category>
+      </categories>
+      <tags>
+        <tag>Hello world!</tag>
+      </tags>
+  </entry>
+</search>
